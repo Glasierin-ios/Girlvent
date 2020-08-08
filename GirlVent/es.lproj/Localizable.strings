@@ -1,0 +1,194 @@
+/* 
+  Localizable.strings
+  Girlvent
+
+  Created by geet on 03/07/20.
+  Copyright © 2020 Glasier Inc. All rights reserved.
+*/
+
+"user_name" = "%@ Publicado en %@";
+
+//Loginvc
+"login_Title"                               = "Donde las chicas tienen voz ...";
+"login_Login"                               = "Iniciar sesión";
+"login_Email"                               = "Email";
+"login_Password"                            = "Contraseña";
+"login_RegisterNow"                         = "Regístrate ahora";
+"login_ForgotPassword"                      = "¿Se te olvidó tu contraseña?";
+"login_SignIn"                              = "Registrarse";
+
+//RegisterVC
+"Register_Welcome"                          = "Bienvenidos";
+"Register_CreateAccount"                    = "Crear una cuenta";
+"Register_FirstName"                        = "Nombre de pila*";
+"Register_LastName"                         = "Apellido*";
+"Register_Email"                            = "Email*";
+"Register_UserName"                         = "Nombre de usuario*";
+"Register_Password"                         = "Contraseña*";
+"Register_ConfirmPassword"                  = "Confirmar contraseña*";
+"Register_UploadProfilePicture"             = "Subir foto de perfil";
+"Regiser_Bio"                               = "Bio";
+"Register_SelectBirthdate"                  = "Seleccione fecha de nacimiento";
+"Register_SelectMonth"                      = "Seleccione mes";
+"Register_SelectDay"                        = "Seleccionar dia";
+"Register_Male"                             = "Masculino";
+"Register_Female"                           = "Hembra";
+"Register_TermsCondition"                   = "Acepto los terminos y condiciones.";
+"Register_TermsText"                        = "terminos y condiciones";
+"Register_Save"                             = "Salvar";
+
+//ForgotPasswordVc
+"fp_Title"                                  = "Se te olvidó tu contraseña";
+"fp_EmailAddress"                           = "Dirección de correo electrónico";
+"fp_SendPasswordLink"                       = "Enviar enlace de restablecimiento de contraseña";
+
+//SideMenuVC
+"menu_Home"                                 = "Hogar";
+"menu_Categories"                           = "Categorias";
+"menu_Forums"                               = "El";
+"menu_CreateMessage"                        = "Crea un mensaje";
+"menu_MyMessages"                           = "Mis mensajes";
+"menu_Notification"                         = "Notificación";
+"menu_MyProfile"                            = "Mi perfil";
+"menu_Logout"                               = "Cerrar sesión";
+
+//Terms&CondtionVC
+"tc_Title"                                  = "Términos y condiciones";
+
+//HomeVC
+"home_WriteComment"                         = "escribir un comentario";
+"home_ReportPost"                           = "Reportar publicacion";
+"home_ReportSpamText"                       = "Seleccionar motivo";
+"posted"                                    = "al corriente";
+"posted in"                                 = "Publicado en";
+
+//CreatePostVC,CreateYoutubeVideoPostVC,CreateImagePostVC,CreateVideoPostVC
+"CreatePost"                                = "Crea una publicación";
+"NewsFeed"                                  = "Noticias";
+"PostTextView"                              = "Por favor escribe algo";
+"Post"                                      = "Enviar";
+"YoutubeLink"                               = "Ingrese el enlace de Youtube";
+"LinkExample"                               = "Ejemplo: https://www.youtube.com/watch";
+"SelectImage"                               = "Seleccionar imagen";
+"SelectVideo"                               = "Seleccionar video";
+
+//CommentsVc
+"Comments_Title"                            = "Comentario (s)";
+"Comments_Edit"                             = "Editar comentario";
+
+//WriteaMessageVc
+"message_title"                             = "Nuevo mensaje";
+"message_SelectUser"                        = "Seleccionar usuario";
+"message_WriteMessage"                      = "Escribe un mensaje";
+"message_AddAttachment"                     = "Añadir un adjunto";
+"message_SendMessage"                       = "Enviar mensaje";
+
+//MyProfileMenuVc
+"pm_MyPosts"                                = "Mis publicaciones";
+"pm_MyImages"                               = "Mis imagenes";
+"pm_MyVideos"                               = "Mis videos";
+"pm_EditProfile"                            = "Editar perfil";
+
+//EditProfileVC
+"ep_ChangePassword"                         = "Cambia la contraseña";
+
+//MyMessageVC
+"mymessage_DownloadAttachment"              = "Descargar archivo adjunto";
+"mymessage_NoMessages"                      = "Ningún mensaje";
+"mymessage_MessageDeleteConfirmation"       = "¿Seguro que quieres borrar este mensaje?";
+
+//MyImagesVC
+"mi_NoImageFound"                           = "No se ha encontrado ninguna imagen";
+"mi_ImageDeleteConfirmation"                = "¿Seguro que quieres eliminar esta imagen?";
+
+//MyVideosVC
+"mv_NoVideoFound"                           = "No se encontró video";
+"mv_VideoDeleteConfirmation"                = "¿Estás seguro de que deseas eliminar este video?";
+
+//ForumListVC
+"fl_Search"                                 = "Buscar";
+"fl_ AddNewForum"                           = " Añadir nuevo foro ";
+"fl_Subject"                                = "Tema";
+"fl_Replies"                                = "Respuestas";
+"fl_New Forum"                              = "Nuevo foro";
+"fl_Title"                                  = "Título";
+"fl_Content"                                = "Write some content";
+"fl_Create"                                 = " Crear ";
+
+//ForumDetailVC
+"fd_Action"                                 = "Acción";
+"fd_RenameForum"                            = "Renombrar foro";
+"fd_Rename"                                 = " Rebautizar ";
+"fd_ForumDeleteConfirmation"                = "¿Seguro que quieres eliminar este foro?";
+"fd_ReplyDeleteConfirmation"                = "¿Estás seguro de que deseas eliminar tu respuesta?";
+"fd_EditForumReply"                         = "Editar respuesta del foro";
+"fd_ReplyToForum"                           = "Responder al foro";
+
+//General
+"Cancel"                                    = "Cancelar";
+"OK"                                        = "Okay";
+"Upload"                                    = "Subir";
+"Save Changes"                              = "Guardar cambios";
+"Hang On"                                   = "¡Aférrate!";
+"ValidEmail"                                = "Por favor introduzca un correo electrónico válido";
+"EnterPassword"                             = "Por favor, ingrese contraseña";
+"PasswordValidationMessage"                 = "La contraseña debe tener al menos 6 caracteres";
+"AcceptTerms&conditions"                    = "Por favor, acepte los términos y condiciones.";
+"Congratulations"                           = "Felicidades";
+"RegistrationSuccessful"                    = "¡Registro exitoso!";
+"Error"                                     = "¡Error!";
+"PhotoFromCamera"                           = "Tomar foto de la cámara";
+"ChooseFromGallery"                         = "Elegir de la galería";
+"EnterFirstName"                            = "Por favor ingrese el nombre";
+"EnterLastName"                             = "Por favor, introduzca el apellido";
+"EnterUsername"                             = "Por favor ingrese nombre de usuario";
+"EnterConfirmPassword"                      = "Por favor ingrese Confirmar contraseña";
+"PasswordNotMatch"                          = "La contraseña y la contraseña de confirmación no coinciden.";
+"Success"                                   = "Éxito";
+"SentResetLink"                             = "¡Hemos enviado su enlace de restablecimiento de contraseña por correo electrónico!";
+"LogoutConfirmation"                        = "¿Estás seguro de que quieres cerrar sesión?";
+"Comment"                                   = "Comentario";
+"EnterSomeText"                             = "Por favor, introduzca algún texto";
+"PostReported"                              = "Publicación informada con éxito!";
+"Admin"                                     = "Administración";
+"EnglishLanguage"                           = "Inglés";
+"SpanishLanguage"                           = "Español";
+"FrenchLanguage"                            = "Francesa";
+"PostDeleted"                               = "¡Publicación eliminada con éxito!";
+"Edit"                                      = "Editar";
+"Delete"                                    = "Eliminar";
+"Confirmation"                              = "Confirmación";
+"PostDeleteConfirmation"                    = "¿Estás seguro de que deseas eliminar esta publicación?";
+"CommentDeleteConfirmation"                 = "¿Estás seguro de que deseas eliminar esta Comentario?";
+"Report"                                    = "Reporte";
+"Share"                                     = "Compartir";
+"GirlVent"                                  = "GirlVent";
+"WriteSomething"                            = "Por favor escribe algo!";
+"EnterYoutubeUrl"                           = "Por favor, introduzca la URL de Youtube.";
+"SelectImage"                               = "Por favor seleccione imagen.";
+"SelectVideo"                               = "Por favor seleccione video.";
+"Waiting"                                   = "Esperando";
+"VideoCompress"                             = "Procesamiento de compresión de video ......";
+"VideoFromCamera"                           = "Tomar video de la cámara";
+"Rename Forums"                             = "Renombrar foros";
+"Rename"                                    = "Renombrar";
+"Edit Message"                              = "Editar mensaje";
+"AddAnyContentOrAttachment"                 = "Agregue cualquier contenido o archivo adjunto.";
+"MessageSent"                               = "Su mensaje enviado con éxito.";
+"EnterText"                                 = "Por favor, introduzca texto";
+"SelectUser"                                = "Por favor seleccione Usuario";
+"SelectAnyImage"                            = "Por favor seleccione cualquier imagen";
+"ProfilePictureUpdated"                     = "Imagen de perfil actualizada correctamente";
+"PasswordChanged"                           = "su contraseña ha sido cambiada exitosamente";
+"MessageDeleted"                            = "Tu mensaje se eliminó correctamente";
+"NoMessageFound"                            = "No se encontró ningún mensaje";
+"ForumNameChange"                           = "Los nombres del foro se cambian correctamente.";
+"ReplyMessage"                              = "Mensaje de respuesta";
+"Reply"                                     = "respuesta";
+"EnterForumTitle"                           = "Por favor, introduzca el título del foro";
+"WriteSomeContent"                          = "Por favor escriba algo de contenido";
+"NoPostFound"                               = "No se ha encontrado ninguna publicación";
+"Comments"                                  = "Comentarios";
+"'s Profile"                                = "Perfil de";
+"Loading"                                   = "Cargando...";
+"ServerNotResponding"                       = "Servidor no responde";

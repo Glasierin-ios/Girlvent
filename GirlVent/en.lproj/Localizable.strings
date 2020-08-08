@@ -1,0 +1,195 @@
+/* 
+  Localizable.strings
+  Girlvent
+
+  Created by geet on 03/07/20.
+  Copyright © 2020 Glasier Inc. All rights reserved.
+*/
+
+"user_name" = "%@ posted in %@";
+
+//Loginvc
+"login_Title"                               = "Where girls have a voice...";
+"login_Login"                               = "Login";
+"login_Email"                               = "Email";
+"login_Password"                            = "Password";
+"login_RegisterNow"                         = "Register Now";
+"login_ForgotPassword"                      = "Forgot Password?";
+"login_SignIn"                              = "Sign In";
+
+//RegisterVC
+"Register_Welcome"                          = "Welcome";
+"Register_CreateAccount"                    = "Create account";
+"Register_FirstName"                        = "First Name*";
+"Register_LastName"                         = "Last Name*";
+"Register_Email"                            = "Email*";
+"Register_UserName"                         = "User Name*";
+"Register_Password"                         = "Password*";
+"Register_ConfirmPassword"                  = "Confirm Password*";
+"Register_UploadProfilePicture"             = "Upload Profile Picture";
+"Regiser_Bio"                               = "Bio";
+"Register_SelectBirthdate"                  = "Select Birth Date";
+"Register_SelectMonth"                      = "Select Month";
+"Register_SelectDay"                        = "Select Day";
+"Register_Male"                             = "Male";
+"Register_Female"                           = "Female";
+"Register_TermsCondition"                   = "I accept terms & conditions.";
+"Register_TermsText"                        = "terms & conditions";
+"Register_Save"                             = "Save";
+
+//ForgotPasswordVc
+"fp_Title"                                  = "Forgot Password";
+"fp_EmailAddress"                           = "Email Address";
+"fp_SendPasswordLink"                       = "Send Password Reset Link";
+
+//SideMenuVC
+"menu_Home"                                 = "Home";
+"menu_Categories"                           = "Categories";
+"menu_Forums"                               = "Forums";
+"menu_CreateMessage"                        = "Create a message";
+"menu_MyMessages"                           = "My Messages";
+"menu_Notification"                         = "Notification";
+"menu_MyProfile"                            = "My Profile";
+"menu_Logout"                               = "Logout";
+
+//Terms&CondtionVC
+"tc_Title"                                  = "Terms & Conditions";
+
+//HomeVC
+"home_WriteComment"                         = "write a comment";
+"home_ReportPost"                           = "Report Post";
+"home_ReportSpamText"                       = "Select Reason";
+"posted"                                    = "posted";
+"posted in"                                 = "posted in";
+
+//CreatePostVC,CreateYoutubeVideoPostVC,CreateImagePostVC,CreateVideoPostVC
+"CreatePost"                                = "Create a Post";
+"NewsFeed"                                  = "News feed";
+"PostTextView"                              = "Please Write Something";
+"Post"                                      = "Post";
+"YoutubeLink"                               = "Enter Youtube Link";
+"LinkExample"                               = "Example: https://www.youtube.com/watch";
+"cm_SelectImage"                               = "Select Image";
+"cv_SelectVideo"                               = "Select Video";
+
+//CommentsVc
+"Comments_Title"                            = "Comment(s)";
+"Comments_Edit"                             = "Edit Comment";
+
+//WriteaMessageVc
+"message_title"                             = "New Message";
+"message_SelectUser"                        = "Select User";
+"message_WriteMessage"                      = "Write a message";
+"message_AddAttachment"                     = "Add Attachment";
+"message_SendMessage"                       = "Send Message";
+
+//MyProfileMenuVc
+"pm_MyPosts"                                = "My Posts";
+"pm_MyImages"                               = "My Images";
+"pm_MyVideos"                               = "My Videos";
+"pm_EditProfile"                            = "Edit Profile";
+
+//EditProfileVC
+"ep_ChangePassword"                         = "Change Password";
+
+//MyMessageVC
+"mymessage_DownloadAttachment"              = "Download attachment";
+"mymessage_NoMessages"                      = "No Messages";
+"mymessage_MessageDeleteConfirmation"       = "Are you sure you want to delete this message?";
+
+//MyImagesVC
+"mi_NoImageFound"                           = "No Image Found";
+"mi_ImageDeleteConfirmation"                = "Are you sure you want to delete this image?";
+
+//MyVideosVC
+"mv_NoVideoFound"                           = "No Video Found";
+"mv_VideoDeleteConfirmation"                = "Are you sure you want to delete this video?";
+
+//ForumListVC
+"fl_Search"                                 = "Search";
+"fl_ AddNewForum"                           = " Add New Forum ";
+"fl_Subject"                                = "Subject";
+"fl_Replies"                                = "Replies";
+"fl_New Forum"                              = "New Forum";
+"fl_Title"                                  = "Title";
+"fl_Content"                                = "Write some content";
+"fl_Create"                                 = " Create ";
+
+//ForumDetailVC
+"fd_Action"                                 = "Action";
+"fd_RenameForum"                            = "Rename Forum";
+"fd_Rename"                                 = " Rename ";
+"fd_ForumDeleteConfirmation"                = "Are you sure you want to delete this Forum?";
+"fd_ReplyDeleteConfirmation"                = "Are you sure you want to delete your reply?";
+"fd_EditForumReply"                         = "Edit Forum Reply";
+"fd_ReplyToForum"                           = "Reply to Forum";
+
+
+//General
+"Cancel"                                    = "Cancel";
+"OK"                                        = "OK";
+"Upload"                                    = "Upload";
+"Save Changes"                              = "Save Changes";
+"Hang On"                                   = "Hang On!";
+"ValidEmail"                                = "Please enter valid Email";
+"EnterPassword"                             = "Please enter password";
+"PasswordValidationMessage"                 = "Password must be at least 6 characters";
+"AcceptTerms&conditions"                    = "Please Accept Terms & conditions.";
+"Congratulations"                           = "Congratulations";
+"RegistrationSuccessful"                    = "Registration Successful!";
+"Error"                                     = "Error!";
+"PhotoFromCamera"                           = "Take Photo From Camera";
+"ChooseFromGallery"                         = "Choose From Gallery";
+"EnterFirstName"                            = "Please enter first name";
+"EnterLastName"                             = "Please enter Last name";
+"EnterUsername"                             = "Please enter username";
+"EnterConfirmPassword"                      = "Please enter Confirm password";
+"PasswordNotMatch"                          = "The password and confirmation password do not match.";
+"Success"                                   = "Success";
+"SentResetLink"                             = "We have e-mailed your password reset link!";
+"LogoutConfirmation"                        = "Are you sure you want to logout?";
+"Comment"                                   = "Comment";
+"EnterSomeText"                             = "Please Enter Some Text";
+"PostReported"                              = "Post Reported Successfully!";
+"Admin"                                     = "Admin";
+"EnglishLanguage"                           = "English";
+"SpanishLanguage"                           = "Spanish";
+"FrenchLanguage"                            = "French";
+"PostDeleted"                               = "Post deleted successfully!";
+"Edit"                                      = "Edit";
+"Delete"                                    = "Delete";
+"Confirmation"                              = "Confirmation";
+"PostDeleteConfirmation"                    = "Are you sure you want to delete this post?";
+"CommentDeleteConfirmation"                 = "Are you sure you want to delete this Comment?";
+"Report"                                    = "Report";
+"Share"                                     = "Share";
+"GirlVent"                                  = "GirlVent";
+"WriteSomething"                            = "Please write something!";
+"EnterYoutubeUrl"                           = "Please Enter Youtube url.";
+"SelectImage"                               = "Please Select Image.";
+"SelectVideo"                               = "Please Select Video.";
+"Waiting"                                   = "Waiting";
+"VideoCompress"                             = "Video compress Processing......";
+"VideoFromCamera"                           = "Take Video From Camera";
+"Rename Forums"                             = "Rename Forums";
+"Rename"                                    = "Rename";
+"Edit Message"                              = "Edit Message";
+"AddAnyContentOrAttachment"                 = "Please Add Any Content or Attachment.";
+"MessageSent"                               = "Your message sent successfully.";
+"EnterText"                                 = "Please Enter Text";
+"SelectUser"                                = "Please select User";
+"SelectAnyImage"                            = "Please select any image";
+"ProfilePictureUpdated"                     = "Profile picture updated successfully";
+"PasswordChanged"                           = "Your password has been successfully changed";
+"MessageDeleted"                            = "Your message deleted successfully";
+"NoMessageFound"                            = "No Message Found";
+"ForumNameChange"                           = "Forum name are change Successfully.";
+"ReplyMessage"                              = "Reply Message";
+"Reply"                                     = "Reply";
+"EnterForumTitle"                           = "Please enter forum title";
+"WriteSomeContent"                          = "Please Write some content";
+"NoPostFound"                               = "No Post Found";
+"Comments"                                  = "Comments";
+"'s Profile"                                = "'s Profile";
+"Loading"                                   = "Loading...";
+"ServerNotResponding"                       = "Server not responding";
